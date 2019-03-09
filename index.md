@@ -6,7 +6,6 @@ sortable_list:
 - '2'
 - '1'
 '': ''
-published: false
 
 ---
 teste
