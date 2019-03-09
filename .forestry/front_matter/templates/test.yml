@@ -1,6 +1,7 @@
 ---
 label: test
 hide_body: false
+display_field: test
 fields:
 - type: boolean
   name: asasdasdas
