@@ -1,4 +1,14 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- type: datetime
+  name: ''
+  label: date_post
+- type: list
+  name: sortable_list
+  label: sortable_list
+  default:
+  - '3'
+  - '2'
+  - '1'
