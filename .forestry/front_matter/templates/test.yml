@@ -6,6 +6,7 @@ fields:
 - type: boolean
   name: asasdasdas
   label: asasdasdas
+  default: true
 - type: blocks
   name: test
   label: Test
