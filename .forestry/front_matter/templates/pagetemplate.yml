@@ -2,3 +2,5 @@
 label: PageTemplate
 hide_body: false
 fields: []
+pages:
+- _posts/criar-diretorio-caso-nao-exista-com-apenas-uma-linha-de-codigo.md
