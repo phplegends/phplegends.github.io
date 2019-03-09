@@ -1,0 +1,8 @@
+---
+label: test
+hide_body: false
+display_field: test
+fields:
+- type: blocks
+  name: test
+  label: Test
