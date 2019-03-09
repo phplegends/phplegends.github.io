@@ -3,5 +3,4 @@ layout: default
 title: Início
 
 ---
-
-# PHPLegends
+Bem-vindo ao PHPLegends!
