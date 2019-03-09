@@ -8,3 +8,5 @@ fields:
 - type: blocks
   name: test
   label: Test
+pages:
+- _posts/2019-03-09-welcome-to-jekyll.markdown
