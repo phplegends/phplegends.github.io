@@ -7,6 +7,7 @@ fields:
   name: asasdasdas
   label: asasdasdas
   default: true
+  hidden: true
 - type: blocks
   name: test
   label: Test
