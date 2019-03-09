@@ -12,3 +12,5 @@ fields:
   - '3'
   - '2'
   - '1'
+pages:
+- index.md
