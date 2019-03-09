@@ -1,9 +1,0 @@
----
-label: Blog Post
-hide_body: true
-fields:
-- type: datetime
-  name: ''
-  label: date_post
-pages:
-- index.md
