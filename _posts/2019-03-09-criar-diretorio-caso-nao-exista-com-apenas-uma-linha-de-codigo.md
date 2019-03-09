@@ -27,7 +27,6 @@ Eu, particularmente, não gosto de usar `if` para casos assim. Isso porque tanto
 Veja:
 
 ```php
-<?php
 
 $directory = '/var/www/site/public/img';
 
