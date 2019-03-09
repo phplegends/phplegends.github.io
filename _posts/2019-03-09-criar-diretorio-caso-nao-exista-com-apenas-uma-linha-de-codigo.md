@@ -34,7 +34,7 @@ is_dir($directory) || mkdir($directory);
 ```
 
 
-O código acima faz o seguinte processamento *se `is_directory($directory)` for `true`, não faça nada. Se for `false`, execute `mkdir($directory)`.
+O código acima faz o seguinte processamento *se `is_directory($directory)` for `true`, não faça nada. Se for `false`, execute `mkdir($directory)`*.
 
 Isso acontece porque o PHP vai avaliando cada expressão, começando da esquerda para direita. O operador `||` vai executar cada expressão enquanto nenhuma delas for avaliada como verdadeira!
 
