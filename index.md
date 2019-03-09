@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: ''
 sortable_list:
 - '4'
 - '3'
